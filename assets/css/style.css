@@ -2778,7 +2778,7 @@ hero-btn {
   color: #cecece;
 }
 .about-area .about-img {
-  background-image: url(../img/gallery/about.jpg);
+  background-image: url(../img/gallery/about1.jpg);
   background-size: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3557,7 +3557,7 @@ hero-btn {
   border-bottom: 1px solid #233148;
 }
 .footer-area .footer-top .single-footer-caption .footer-logo {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .footer-area .footer-top .single-footer-caption .footer-pera .info1 {
   line-height: 1.8;
@@ -6225,4 +6225,9 @@ del {
     width: 50px; /* Set the width of the logo */
     height: 50px; /* Set the height of the logo */
     background-size: cover; /* Make sure the image covers the entire area */
+    margin-bottom: 50px;
+}
+.email-footer{
+  height: 100px;
+  font-size: larger;
 }
